@@ -9,4 +9,4 @@
 * Psycopg — самый популярный адаптер базы данных PostgreSQL;
 * Pandas и Keras - разработка нейронной сети.
 
-![](https://github.com/kya28/finally_project_in_university.git/test.png)
+![](https://github.com/kya28/finally_project_in_university/blob/master/test.png)
