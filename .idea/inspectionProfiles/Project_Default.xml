@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="cript.webdriver_manager" />
+          <option value="schedule.every" />
+          <option value="schedule.run_pending" />
+          <option value="bot.token" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
